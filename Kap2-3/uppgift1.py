@@ -1,3 +1,7 @@
 #Kap 2-3
 #Uppgift 1
-#Petra Gunnarsdotter
+#Hugo Häggkvist
+
+namn = "Hugo Häggkvist"
+ålder = 16
+print(namn, ålder, "år gammal.")
